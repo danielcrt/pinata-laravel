@@ -10,7 +10,8 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "illuminate/support": "^8.77"
+        "illuminate/support": "^9.0",
+        "guzzlehttp/guzzle": "^7.5"
     },
     "autoload": {
         "psr-4": {
